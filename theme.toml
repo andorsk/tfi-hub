@@ -1,8 +1,8 @@
-name = "Hugoplate"
+name = "TFI Hub"
 license = "MIT"
-licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
-description = "Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-homepage = "https://github.com/zeon-studio/hugoplate"
+licenselink = "https://github.com/andorsk/tfi-hub/blob/main/LICENSE"
+description = "We're all about using technology to make a real difference."
+homepage = "https://github.com/andorsk/tfi-hub"
 demosite = "https://zeon.studio/preview?project=hugoplate"
 min_version = "0.121.2"
 
@@ -29,10 +29,10 @@ features = [
 ]
 
 [author]
-name = "Zeon Studio"
-homepage = "https://zeon.studio"
+name = "TFI Hub"
+homepage = ""
 
 [original]
-author = "Zeon Studio"
+author = "TFI Hub"
 homepage = "https://zeon.studio"
 repo = "https://github.com/zeon-studio/themeplate"
