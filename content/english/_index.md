@@ -11,7 +11,7 @@ banner:
 features:
 
   - title: "Here’s what we stand for"
-    image: "/images/service-1.png"
+    image: "/images/ForBusinesses.png"
     content: ""
     bulletpoints:
       - Creating a more equitable world 
@@ -22,7 +22,7 @@ features:
       link: "#"
 
   - title: "For Non-Profits"
-    image: "/images/service-1.png"
+    image: "/images/ForBusinesses.png"
     content: "For Non-profit Organizations, We enable non-profit organizations to select or develop the ideal tech solutions"
     bulletpoints:
       - Amplifying their mission
@@ -34,7 +34,7 @@ features:
       link: "#"
 
   - title: "For Students"
-    image: "/images/service-1.png"
+    image: "/images/ForStudents.png"
     content: "For Students, We enable students & professionals to"
     bulletpoints:
       - Build purpose-driven careers
@@ -46,7 +46,7 @@ features:
       link: "#"
 
   - title: "Technologies we advocate for"
-    image: "/images/service-1.png"
+    image: "/images/ForStudents.png"
     content: ""
     bulletpoints:
       - Decentralized tools and open-source protocols
@@ -58,7 +58,7 @@ features:
       link: "#"
 
   - title: "Causes We Champion"
-    image: "/images/service-1.png"
+    image: "/images/ForStudents.png"
     content: ""
     bulletpoints:
       - Climate Action
