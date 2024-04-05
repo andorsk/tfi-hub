@@ -1,11 +1,6 @@
 {
   "main": [
     {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/andorsk/tfi-hub"
-    },
-    {
       "name": "instagram",
       "icon": "fab fa-instagram",
       "link": "https://www.instagram.com/tfihub?igsh=MzRlODBiNWFlZA=="
