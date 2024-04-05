@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Learn more"
     image: "/images/service-1.png"
     content: "Here’s what we stand for"
     bulletpoints:
