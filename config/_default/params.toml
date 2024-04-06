@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/TFIHubfavicon.png"
+favicon = "images/TFIHubFavicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
 logo = "images/TFI_Hub.png"
 logo_darkmode = "images/TFI_Hub.png"
@@ -59,7 +59,7 @@ show_categories = true
 keywords = ["Boilerplate", "Hugo", "TFI Hub"]
 description = "TFI Hub"
 author = "zeon.studio"
-image = "images/og-image.png"
+image = "images/TFI_WebsitePlaceholder.png"
 
 
 # site verifications
